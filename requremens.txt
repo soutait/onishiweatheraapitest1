@@ -1,1 +1,0 @@
--e git+https://github.com/soutait/onishiweatheraapitest1.git#egg=rgmining_common-0.9.0
